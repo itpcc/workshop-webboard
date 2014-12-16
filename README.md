@@ -53,14 +53,17 @@ phpinfo.in.th Webboard Workshop
 * [header()](http://php.net/manual/en/function.header.php)
 * [htmlspecialchars()](http://php.net/manual/en/function.htmlspecialchars.php)
 * [ini_get()](http://php.net/manual/en/function.ini-get.php)
+* [is_numeric()](http://php.net/manual/en/function.is-numeric.php)
 * [mb_strlen()](http://php.net/manual/en/function.mb-strlen.php)
 * [microtime()](http://php.net/manual/en/function.microtime.php)
 * [number_format()](http://php.net/manual/en/function.number-format.php)
 * [ob_get_flush()](http://php.net/manual/en/function.ob-get-flush.php)
 * [ob_start()](http://php.net/manual/en/function.ob-start.php)
+* [pathinfo()](http://php.net/manual/en/function.pathinfo.php)
 * [sprintf()](http://php.net/manual/en/function.sprintf.php)
-* [strpos()](http://php.net/manual/en/function.strpos.php)
+* [strtotime()](http://php.net/manual/en/function.strtotime.php)
 * [substr()](http://php.net/manual/en/function.substr.php)
+* [time()](http://php.net/manual/en/function.time.php)
 * [trim()](http://php.net/manual/en/function.trim.php)
 
 #### property/method ของ class ที่ใช้ในตัวอย่างนี้
